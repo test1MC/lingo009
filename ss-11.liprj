@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="sl" xml:lang="sl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/madmin/AppData/Local/Temp/ss-11_549E3DE7/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/sdfw.git/" SourceProjectGuid="e15b2476-7b98-4f3b-a247-0fa4f807e4a6" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="d8e4a6eb-8889-4f68-881c-d5d8ce835fff">
+<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sl" xml:lang="sl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/madmin/AppData/Local/Temp/ss-11_549E3DE7/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/sdfw.git/" SourceProjectGuid="e15b2476-7b98-4f3b-a247-0fa4f807e4a6" SourceControlBound="true" SourceControlProviderType="Git">
     <ProjectFile Source="Target/NewProject19.flprj" Target="Target/NewProject19.flprj" />
 </LingoProject>
